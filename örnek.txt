@@ -1,0 +1,12 @@
+# Bu bir örnektir
+# <- # Sembölü ile başlayan satırlar program tarafından okunmaz
+# # sembolü ile başlayan satırlara "not" veya "yorum" denir
+# Boş satırlar okunur, ondan dolayı boş satır bırakmayın.
+Elma
+Armut
+Ahmet
+Ayşe
+# yorumları ortayada koyabilirsiniz
+Kiraz
+Çilek
+# Dosyanın sonunada
